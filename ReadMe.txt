@@ -1,5 +1,11 @@
 1. Aufgabenblatt
 ================
-Bitte geben Sie nachfolgend Namen und Matrikelnummern der beteiligten Studierenden an:
 
-1. 
+1. Bill Tony Kamtsap Socpa
+202623280
+
+2. Ruth Divine Heppy Hadji 
+202528056
+
+3. Mohamed Aly Sampou
+202628407
